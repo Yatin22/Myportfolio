@@ -69,8 +69,8 @@ body{
 }
 @font-face {
 	font-family: 'Semibold';
-	src: url('/Graphik-Font-Family/GraphikSemibold.otf');
-	src: url('/Graphik-Font-Family/GraphikSemibold.otf') format('opentype');
+	src: url('./Graphik-Font-Family/GraphikSemibold.otf');
+	src: url('./Graphik-Font-Family/GraphikSemibold.otf') format('opentype');
 	font-weight: 600;
 	font-style: normal;}
 .details{
