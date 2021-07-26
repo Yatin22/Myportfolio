@@ -113,24 +113,24 @@ body{
 
 @font-face {
 	font-family: 'Regular';
-	src: url('/Graphik-Font-Family/GraphikThin.otf');
-	src: url('/Graphik-Font-Family/GraphikThin.otf') 
+	src: url('./Graphik-Font-Family/GraphikThin.otf');
+	src: url('./Graphik-Font-Family/GraphikThin.otf') 
     format('opentype');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Regular1';
-	src: url('/Graphik-Font-Family/GraphikRegular.otf');
-	src: url('/Graphik-Font-Family/GraphikRegular.otf') 
+	src: url('./Graphik-Font-Family/GraphikRegular.otf');
+	src: url('./Graphik-Font-Family/GraphikRegular.otf') 
     format('opentype');
 	font-weight: normal;
 	font-style: normal;
 }
 @font-face {
 	font-family: 'Semibold';
-	src: url('/Graphik-Font-Family/GraphikSemibold.otf');
-	src: url('/Graphik-Font-Family/GraphikSemibold.otf') format('opentype');
+	src: url('./Graphik-Font-Family/GraphikSemibold.otf');
+	src: url('./Graphik-Font-Family/GraphikSemibold.otf') format('opentype');
 	font-weight: 600;
 	font-style: normal;
 }
