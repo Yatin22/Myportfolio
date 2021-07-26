@@ -21,7 +21,7 @@ body{
     font-family: 'Acme', sans-serif;
 }
 .hello a:hover #a{
-    display:none;
+    color: Black;
     /* transition: 0.3s ease; */
     animation: slide-in 0.2s forwards ease;
     animation:slide-inn;
@@ -62,7 +62,7 @@ body{
     color:#EB101E;
 }
 .iam a:hover #a2{
-    display:none;
+    color: Black;
 }
 .iam #b2{
     left: 0%;
